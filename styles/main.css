@@ -1,0 +1,7 @@
+@import 'reset.css';
+@import 'variables/_variables.css';
+@import 'desktop.css';
+
+html {
+  font-face: var(--font);
+}

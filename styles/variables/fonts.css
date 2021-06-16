@@ -1,0 +1,17 @@
+:root {
+  --font: 'Bai Jamjuree', sans-serif;
+  --weight-1: 400;
+  --weight-2: 600;
+}
+
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-weight: 600;
+  src: url(/assets/fonts/BaiJamjuree-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-weight: 400;
+  src: url(/assets/fonts/BaiJamjuree-Regular.ttf);
+}

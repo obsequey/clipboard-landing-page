@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "colors.css": "^3.0.0",
+    "desktop": "^0.1.0",
+    "fonts.css": "^2.0.0",
+    "variables": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
